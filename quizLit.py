@@ -378,7 +378,7 @@ def show_final_results():
         elif level == PerformanceLevel.GOOD:
             st.metric("Desempenho", "Bom", delta="👍")
         else:
-            st.metric("Desempenho", "Precisa Melhorar", delta="📚")
+            st.metric("Desempenho", "ihh rapaz...", delta="📚")
 
     # Mensagem de performance
     if level == PerformanceLevel.EXCELLENT:
